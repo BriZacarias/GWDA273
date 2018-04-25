@@ -1,0 +1,45 @@
+body {
+	background-color: lavender
+	;
+}
+.wrapper{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header{padding: 20px; background-color: pink}
+main{padding: 20px; background-color: yellow; float: left;}
+section{padding: 20px; background-color: goldenrod; margin-bottom: 20px;}
+footer{padding: 20px; background-color: light blue}
+
+img.smaller{
+	width: 150px;
+}
+
+p{
+	text-align: justify;
+}
+
+#girl1{
+	float: right;
+}
+#girl2{
+	float: right;
+}
+#girl3{
+	float: left;
+}
+section{
+	float: left;
+	width: 720px;
+}
+#girl4{
+	float: right;
+}
+#girl5{
+	float: left;
+}
+footer{
+	clear: both;
+}
